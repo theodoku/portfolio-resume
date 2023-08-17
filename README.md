@@ -46,7 +46,7 @@ HTML, CSS,JavaScript
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live]()
+- [Live](https://theodoku.github.io/portfolio-resume/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
