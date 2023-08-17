@@ -46,13 +46,8 @@ HTML, CSS,JavaScript
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live](https://queenterjuma.github.io/Portfolio-Resume.github.io/)
+- [Live]()
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## 🚀 Loom Video <a name="loom-video"></a>
-
-- [Live](https://www.loom.com/share/73532c8c9cff4d4b8fc5cd651cc8af87?t=389)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -70,7 +65,7 @@ Clone this repository to your desired folder:
 
 ```sh
   cd my-folder
-  git clone https://github.com/QueenterJuma/Portfolio-Resume.github.io.git
+  git clone https://github.com/theodoku/portfolio-resume.git
 ```
 
 
@@ -78,11 +73,11 @@ Clone this repository to your desired folder:
 
 Install this project with:
 ```
-git clone https://github.com/QueenterJuma/Portfolio-Resume.github.io.git
+git clone https://github.com/theodoku/portfolio-resume.git
 ```
 Navigate to the folder
 ```
-repo-name (Portfolio-Resume)
+repo-name (portfolio-resume)
 ```
 Checkout the branch
 ```
@@ -106,11 +101,11 @@ You can deploy this project using: Netlify, and some other hosting service: <a h
 
 ## 👥 Author <a name="authors"></a>
 
-👤 **Queenter Juma**
+👤 **Theophilus Doku**
 
-- GitHub:(https://github.com/QueenterJuma)
-- Twitter: (https://twitter.com/QueenJumah)
-- LinkedIn:(https://www.linkedin.com/in/queenteranyangojuma/)
+- GitHub: [@theodoku](https://github.com/theodoku)
+- Twitter: [@dok_theo](https://twitter.com/dok_theo)
+- LinkedIn: [theophilus doku](https://www.linkedin.com/in/theophilus-doku/)
 
 ## 🔭 Future Features <a name="future-features"></a>
 
