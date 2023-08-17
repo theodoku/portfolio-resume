@@ -23,21 +23,21 @@ const firstProject = document.querySelector(".work-section .project1");
 const projectCards = document.querySelectorAll(".work-section .project-sample");
 
 projectsInfo.push({
-  projectName: "Book Vehicle - A Ruby on Rails and React Project",
-  projectLang: ["Ruby on Rails", "React", "PostgreSQL", "SCSS"],
-  projectImgSrc: "./img/2023-08-16 20_50_03-Window.png",
-  projectImgAlt: "Vehicles",
-  featureImg: "./img/2023-08-16 20_50_03-Window.png",
+  projectName: "Orbit Web Innovation",
+  projectLang: ["HTML5", "JavaScript", "CSS"],
+  projectImgSrc: "./img/orbit.png",
+  projectImgAlt: "Orbit World Innovation",
+  featureImg: "./img/orbit.png",
   projectshortDescription:
-    '"Book Vehicle" is a booking car that allows users to easily book and reserve cars online. With Book Vehicle, users can log in and access a wide range of cars to choose from.',
-  projectDescription: `"Book Vehicle" is a group project I created, combining the power of Ruby on Rails and React to revolutionize the car rental and reserving experience.
-    📅 With "Book Vehicle," users can:
-    ✅ Explore a curated selection of cars
-    ✅ Easily schedule car reservation
-    💼 "Book Vehicle" showcases my passion for creating user-friendly applications and integrating cutting-edge technologies.`,
+    "Orbit Web Innovations is a website for an online school that shows courses offered by school and their lecturers",
+  projectDescription: ` This website is online school that provide information of courses offered by school and  display lecturers of the school
+    📅 With "Orbit Web Innovation," users can:
+    ✅ Explore courses offered by school
+    ✅ Easily retrieve details of lecturers for a specific program.
+    💼 "Orbit Web Innovations" showcases my passion for creating user-friendly applications and integrating cutting-edge technologies.`,
 
-  seeLive: "http://localhost:3000/",
-  seeSource: "https://github.com/HERMON-1995/Book_vehicle_rental-backend",
+  seeLive: "https://theodoku.github.io/1st-Capstone-Project/index.html",
+  seeSource: "https://github.com/theodoku/1st-Capstone-Project",
 });
 projectsInfo.push({
   projectName: "Miscellaneous App ",
@@ -53,17 +53,17 @@ projectsInfo.push({
   seeSource: "https://github.com/theodoku/budget_app_rails",
 });
 projectsInfo.push({
-  projectName: "World Metric",
-  projectLang: ["React", "CSS", "API"],
-  projectImgSrc: "./img/metric app.jpg",
-  projectImgAlt: "Country",
-  featureImg: "./img/metric app.jpg",
+  projectName: "Todo List App",
+  projectLang: ["HTML5", "CSS3", "JavaScript", "Webpack"],
+  projectImgSrc: "./img/todo list.png",
+  projectImgAlt: "TodoList App",
+  featureImg: "./img/todo list.png",
   projectshortDescription:
-    "World Metric is a Metrics webapp that provides users with quick and easy access to information about countries worldwide. ",
+    "With this App, a user can add a todo to the list of tasks and delete task after it has been completed. ",
   projectDescription:
-    "World Metric is a React/Redux Metrics webapp that provides users with quick and easy access to information about countries worldwide. It offers details such as capital, population, currency, languages, and time zone.",
-  seeLive: "https://world-metric-app.onrender.com/",
-  seeSource: "https://github.com/theodoku/metrics-webapp",
+    "Welcome to the Todo List App!🚀 This App handles all your tasks in an orderly manner.",
+  seeLive: "https://theodoku-react.netlify.app/",
+  seeSource: "https://github.com/theodoku/react-todoapp",
 });
 projectsInfo.push({
   projectName: "Space-Travelers",
@@ -92,17 +92,17 @@ projectsInfo.push({
   seeSource: "https://github.com/theodoku/maths-magicians",
 });
 projectsInfo.push({
-  projectName: "Orbit Web Innovation",
-  projectLang: ["JavaScript", "CSS"],
-  projectImgSrc: "./img/orbit.png",
-  projectImgAlt: "Orbit Web Innovation",
-  featureImg: "./img/orbit.png",
+  projectName: "World Metric",
+  projectLang: ["React", "API"],
+  projectImgSrc: "./img/metric app.jpg",
+  projectImgAlt: "World Metric",
+  featureImg: "./img/metric app.jpg",
   projectshortDescription:
-    "Orbit Web Innovation is a website for an online school that shows courses offered by school and their lecturers.",
+    "World Metric is an app that provides information of various countries and their continents.",
   projectDescription:
-    "This website is online school that provide information of courses offered by school and  display lecturers of the school",
-  seeLive: "https://theodoku.github.io/1st-Capstone-Project/index.html",
-  seeSource: "https://github.com/theodoku/1st-Capstone-Project",
+    'Welcome to the "World Metric" 🚀! Explore details of population, flag, languages, currencies of countries etc.',
+  seeLive: "https://world-metric-app.onrender.com/",
+  seeSource: "https://github.com/theodoku/metrics-webapp",
 });
 projectsInfo.push({
   projectName: "Leaderboard",
